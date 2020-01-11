@@ -1,19 +1,21 @@
-# {{Flutter Cafe OSG 8 ALhanifdev}} ( {{Final Project OSG 8}} )
+# Flutter Cafe OSG 8 ALhanifdev (Final Project OSG 8)
 {{tentang_project}}.
 
 ## Screenshot
 {{screenshot_project}}.
 
 ## Built With
-{{teknologi_digunakan}}
+- [Flutter](https://flutter.dev)
+- [The Mealdb](https://www.themealdb.com/api.php)
+- [HTTP LIB ( http: ^0.12.0+4) ](https://pub.dev/packages/http)
 
 ## Created By
-{{nama_peserta}}
+Heri Setiawan
 
-## {{jenis_kelas}} Eudeka!
-{{tentang_kelas}}.
+## Online Study Group Eudeka!
+Salah satu program dari [**Eudeka!**](https://www.eudeka.id) untuk belajar secara _full online_ via Whatsapp/Telegram dan Google Classroom, dengan para praktisi handal di bidangnya. Selain itu juga kamu dapat berkesempatan untuk memperluas koneksimu dengan peserta lain..
 
-## {{nama_kelas}}
+## OSG05 - Flutter Basic
 Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
 
 ## Cara Mendaftar {{jenis_kelas}}
