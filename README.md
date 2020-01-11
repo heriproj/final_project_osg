@@ -1,5 +1,5 @@
 # Flutter Cafe OSG 8 ALhanifdev (Final Project OSG 8)
-Aplikasi Flutter menampilkan daftar makanan dari [TheMealDB](https://www.themealdb.com/), beserta detail tim tersebut..
+Aplikasi Flutter menampilkan daftar makanan dari [TheMealDB](https://www.themealdb.com/), beserta detail makanan tersebut..
 
 ## Screenshot
 {{screenshot_project}}.
@@ -7,7 +7,9 @@ Aplikasi Flutter menampilkan daftar makanan dari [TheMealDB](https://www.themeal
 ## Built With
 - [Flutter](https://flutter.dev)
 - [The Mealdb](https://www.themealdb.com/api.php)
-- [HTTP LIB ( http: ^0.12.0+4) ](https://pub.dev/packages/http)
+- [HTTP Library ( http: ^0.12.0+4) ](https://pub.dev/packages/http)
+- [splashscreen 1.2.0 Library with custom ](https://pub.dev/packages/splashscreen)
+- Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)
 
 ## Created By
 Heri Setiawan
