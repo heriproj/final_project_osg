@@ -1,4 +1,4 @@
-# {{nama_project}} ( {{kode_tugas}} )
+# {{Flutter Cafe OSG 8 ALhanifdev}} ( {{Final Project OSG 8}} )
 {{tentang_project}}.
 
 ## Screenshot
