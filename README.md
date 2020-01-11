@@ -17,11 +17,11 @@ Heri Setiawan
 ## Online Study Group Eudeka!
 Salah satu program dari [**Eudeka!**](https://www.eudeka.id) untuk belajar secara _full online_ via Whatsapp/Telegram dan Google Classroom, dengan para praktisi handal di bidangnya. Selain itu juga kamu dapat berkesempatan untuk memperluas koneksimu dengan peserta lain..
 
-## OSG05 - Flutter Basic
+## OSG08 - Flutter Basic
 Dengan jangka waktu lebih kurang {{waktu_kelas}}, peserta diharapkan dapat {{tujuan_kelas}}.
 
-## Cara Mendaftar {{jenis_kelas}}
-{{cara_daftar}}.
+## Cara Mendaftar Online Study Group
+Untuk pendaftaran kelas selanjutnya, silahkan kunjungi atau hubungi kami di dawah ini.
 
 ## Info Lebih Lengkap
 Website : [www.eudeka.id](https://www.eudeka.id).  
