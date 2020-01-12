@@ -1,5 +1,5 @@
-# Flutter Cafe OSG 8 ALhanifdev (Final Project OSG 8)
-Aplikasi Flutter menampilkan daftar makanan dari [TheMealDB](https://www.themealdb.com/), beserta detail makanan tersebut..
+# Flutter Recipes OSG 8 ALhanifdev (Final Project OSG 8)
+Aplikasi Flutter menampilkan daftar Makanan dari [TheMealDB](https://www.themealdb.com/), beserta detail resep makanan tersebut..
 
 ## Screenshot
 {{screenshot_project}}.

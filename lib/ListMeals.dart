@@ -34,7 +34,7 @@ class ListMealsState extends State<ListMeals> {
 //      title: 'Cafe OSG 8',
       home: Scaffold(
           appBar: AppBar(
-              title: Text('List Meal '+category+' Cafe OSG 8'),
+              title: Text('List Meal '+category+' Recipes OSG 8'),
               leading: IconButton(icon:Icon(Icons.arrow_back),
                 onPressed:() => Navigator.pop(context, false),
               )

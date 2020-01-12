@@ -17,13 +17,13 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return new SplashScreen(
-        seconds: 20,
+        seconds: 5,
         navigateAfterSeconds: new MainMenu(),
-        title: new Text('Cafe OSG 8 AlHanifdev',
+        title: new Text('Recipes OSG 8 AlHanifdev',
           style: new TextStyle(
               fontWeight: FontWeight.bold,
               fontFamily: 'Raleway',
-              fontSize: 35.0
+              fontSize: 30.0
           ),),
         version: new Text('Final Project OSG 8 By Heri',
           style: new TextStyle(

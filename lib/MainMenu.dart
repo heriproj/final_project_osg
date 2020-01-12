@@ -30,7 +30,7 @@ class MainMenuState extends State<MainMenu> {
         title: 'Cafe OSG 8',
         home:Scaffold(
           appBar: AppBar(
-            title: Text("Category Menu Cafe OSG 8"),
+            title: Text("Category Menu Recipes OSG 8"),
           ),
           body: GridView.builder(
             gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
