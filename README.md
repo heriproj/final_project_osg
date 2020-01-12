@@ -2,7 +2,10 @@
 Aplikasi Flutter menampilkan daftar Makanan dari [TheMealDB](https://www.themealdb.com/), beserta detail resep makanan tersebut..
 
 ## Screenshot
-{{screenshot_project}}.
+![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_256/v1578834779/Screenshot_1578834647_smfwmf.png "source: alhanifdev.com")
+![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_308/v1574955901/device-2019-11-28-221544_jvb1rq.png "source: alhanifdev.com")
+![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_308/v1574955901/device-2019-11-28-221544_jvb1rq.png "source: alhanifdev.com")
+![Flutter Apps](https://res.cloudinary.com/alhanifdev/image/upload/c_scale,w_308/v1574955901/device-2019-11-28-221544_jvb1rq.png "source: alhanifdev.com")
 
 ## Built With
 - [Flutter](https://flutter.dev)
