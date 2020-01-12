@@ -35,7 +35,6 @@ class _MyAppState extends State<MyApp> {
         backgroundColor: Colors.indigo,
         styleTextUnderTheLoader: new TextStyle(),
         photoSize: 100.0,
-        onClick: ()=>print("Flutter Egypt"),
         loaderColor: Colors.white70
     );
 

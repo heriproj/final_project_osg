@@ -65,10 +65,6 @@ class MainMenuState extends State<MainMenu> {
                     ]
                   )
                   )
-//                  child: Image.network(
-//                    data[index]['strCategoryThumb'],
-//                    fit: BoxFit.cover,
-//                  )
               );
             },
           ),
