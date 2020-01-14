@@ -16,11 +16,11 @@ Aplikasi Flutter menampilkan daftar Makanan dari [TheMealDB](https://www.themeal
 
 ## Created By
 Heri Setiawan
-    - Membuat Desain Layout UI
-    - Membuat Splash Screen dengan modifikasi library splashscreen
-    - Membuat fungsi REST api untuk menampilkan semua data Category makanan dari The Mealdb API dan ditampilkan menggunakan Gridview
-    - Membuat fungsi REST api untuk menampilkan list data makanan berdasar Categori terpilih dan ditampilkan dengan Listview dengan memanfaatkan Card
-    - Membuat fungsi REST api untuk menampilkan detail foto makanan dan cara membuat makanan berdasarkan id makanan yang terpilih di list makanan
+- Membuat Desain Layout UI
+- Membuat Splash Screen dengan modifikasi library splashscreen
+- Membuat fungsi REST api untuk menampilkan semua data Category makanan dari The Mealdb API dan ditampilkan menggunakan Gridview
+- Membuat fungsi REST api untuk menampilkan list data makanan berdasar Categori terpilih dan ditampilkan dengan Listview dengan memanfaatkan Card
+- Membuat fungsi REST api untuk menampilkan detail foto makanan dan cara membuat makanan berdasarkan id makanan yang terpilih di list makanan
 
 
 ## Online Study Group Eudeka!
